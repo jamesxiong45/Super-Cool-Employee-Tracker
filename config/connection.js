@@ -10,7 +10,7 @@ const db = mysql.createConnection(
     (err) => {
         console.log(err)
     },
-    console.log('Server is up and listening!')
+    console.log('Server is up and listening on PORT:3001!')
 );
 
 module.exports = db
