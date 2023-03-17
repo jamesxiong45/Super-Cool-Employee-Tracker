@@ -9,9 +9,14 @@ In this project, I was required to create an app that manages employees through 
 This app requires the use of Node.js and MySQL in VSCode!
 
 * First, clone the files into a directory.
-* Then, run 'npm i' to install node.js and the dependencies.
+
+* Then, go into your terminal and run 'npm i' to install node.js and the dependencies.
+
 * After that, make sure you edit the '.env' file to contain the correct username and password for MySQL.
-* Finally, run 'npm start' and start tracking your employees.
+
+* Next, run 'mysql -u root -p' and source the .sql files by typing 'source ./db/schema.sql;' and 'source ./db/seeds.sql;'
+
+* Finally, back out of MySQL by pressing 'CTRL + C' and run 'npm start' to start tracking your employees.
 
 ## Screenshot
 ![Screenshot!](screenshot.JPG)
