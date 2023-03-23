@@ -18,13 +18,22 @@ This app requires the use of Node.js and MySQL in VSCode!
 
 * Finally, back out of MySQL by pressing 'CTRL + C' and run 'npm start' to start tracking your employees.
 
-## Screenshot
-![Screenshot!](screenshot.JPG)
+## Screenshot of GET
+![Screenshot!](Get.JPG)
+
+## Screenshot of POST
+![Screenshot!](post.JPG)
+
+## Screenshot of PUT
+![Screenshot!](put.JPG)
+
+## Screenshot of DELETE
+![Screenshot!](delete.JPG)
 
 
 ## Video Demo
 
 Here is a link to my video demo!
 
-https://drive.google.com/file/d/1IzgBAl_GpcnODpdxzQjcNP2jfx_zVUZY/view
+https://drive.google.com/file/d/1bmyZ6SaiZnGGggAYFP9HOtO2EBTpyWjj/view
 
